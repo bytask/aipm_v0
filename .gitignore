@@ -31,3 +31,4 @@ Thumbs.db
 .cursor/rules/basic
 Stock/programs/夕食作り
 scripts
+**/.claude/settings.local.json
