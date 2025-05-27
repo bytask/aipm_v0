@@ -840,7 +840,7 @@ User: 日次タスクまとめて
 
 Googleカレンダーから予定を直接取得するには、以下のリポジトリで公開されているアプリケーションのセットアップが必要です：
 
-- [calendar_app](https://github.com/miyatti777/calendar_app) - Google Apps Script & Claspを使用したカレンダー連携ツール
+- [calendar_app](https://github.com/bytask/calendar_app) - Google Apps Script & Claspを使用したカレンダー連携ツール
 
 このアプリケーションを導入すると、エージェントが直接Googleカレンダーから予定を取得できるようになり、MCPの不安定さを回避した安定した運用が可能になります。セットアップ方法は上記リポジトリのREADMEを参照してください。
 

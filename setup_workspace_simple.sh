@@ -43,17 +43,17 @@ log_error() {
 setup_default_config() {
   # ルールリポジトリ
   RULE_REPOS=(
-    "https://github.com/miyatti777/rules_basic_public.git|.cursor/rules/basic"
+    "https://github.com/bytask/rules_basic_public.git|.cursor/rules/basic"
   )
   
   # スクリプトリポジトリ
   SCRIPT_REPOS=(
-    "https://github.com/miyatti777/scripts_public.git|scripts"
+    "https://github.com/bytask/scripts_public.git|scripts"
   )
   
   # プログラムリポジトリ
   PROGRAM_REPOS=(
-    "https://github.com/miyatti777/sample_pj_curry.git|Stock/programs/夕食作り"
+    "https://github.com/bytask/sample_pj_curry.git|Stock/programs/夕食作り"
   )
   
   # サンプルプログラムフォルダ（フォールバック用）
